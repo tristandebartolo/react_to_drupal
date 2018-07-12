@@ -43,4 +43,4 @@ app.bundle.js  107 KiB       0  [emitted]  main
 
 If the compilation succeeds, activate the module and place the block in a region.
 
-[see in action](http://revuesdecode.com/revues/drupal-8/implementation-de-react-dans-un-custom-module-drupal-8-webpack "see in action reat_to_drupal")
+[see in action](http://revuesdecode.com/revues/drupal-8/implementation-de-react-dans-un-custom-module-drupal-8-webpack "see in action react_to_drupal")
