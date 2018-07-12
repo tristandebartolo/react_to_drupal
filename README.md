@@ -20,11 +20,11 @@ Then, in the command line, place yourself in the module's react file and run a
 ```batch
 yarn
 ```
-to initiate the project and run a
+command to initiate the project and run a
 ```batch
 webpack
 ```
- to compile it.
+ command to compile it.
 
 ```batch
 C:\Users\mm\Documents\tdb\workspace\drupal-react\drupal\web\modules\custom\react_to_drupal\react  (react_to_drupal@1.0.0)
