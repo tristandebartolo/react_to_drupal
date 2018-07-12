@@ -27,7 +27,7 @@ webpack
  command to compile it.
 
 ```batch
-C:\Users\mm\Documents\tdb\workspace\drupal-react\drupal\web\modules\custom\react_to_drupal\react  (react_to_drupal@1.0.0)
+C:\Users\mm\tdb\workspace\drupal-react\drupal\web\modules\custom\react_to_drupal\react  (react_to_drupal@1.0.0)
 λ webpack
 Hash: 8d25339266b0c154b1a3
 Version: webpack 4.16.0
