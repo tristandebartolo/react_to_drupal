@@ -1,0 +1,6 @@
+react:
+  js:
+    react/dist/app.bundle.js: {}
+  css:
+    component:
+      'react/dist/app.bundle.css': {}

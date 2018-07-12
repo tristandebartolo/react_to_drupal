@@ -1,0 +1,10 @@
+name: React to Drupal
+type: module
+description: 'Implement ReactJs in a custom module Drupal 8 with Webpack.'
+package: MM
+core: 8.x
+dependencies:
+  - rest
+  - system (>=8.2.0)
+
+project: 'address'
