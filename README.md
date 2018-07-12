@@ -16,7 +16,15 @@
 
 Place the module in the custom folder of the modules.
 
-Then, in the command line, place yourself in the module's react file and run a yarn to initiate the project and a webpack to compile it.
+Then, in the command line, place yourself in the module's react file and run a 
+```batch
+yarn
+```
+to initiate the project and run a
+```batch
+webpack
+```
+ to compile it.
 
 ```batch
 C:\Users\mm\Documents\tdb\workspace\drupal-react\drupal\web\modules\custom\react_to_drupal\react  (react_to_drupal@1.0.0)
@@ -31,7 +39,6 @@ app.bundle.js  107 KiB       0  [emitted]  main
  [9] ./src/app.scss 1.17 KiB {0} [built]
 [19] ./src/app.js 2.32 KiB {0} [built]
     + 17 hidden modules
-
 ```
 
 If the compilation succeeds, activate the module and place the block in a region.
